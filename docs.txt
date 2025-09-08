@@ -1,1 +1,2 @@
 This is the first version of our documentation.
+Added more details about the project scope.
